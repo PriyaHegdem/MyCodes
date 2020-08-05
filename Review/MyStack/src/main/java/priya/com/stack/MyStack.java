@@ -1,4 +1,4 @@
-package MyPackage;
+package main.java.priya.com.stack;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -62,6 +62,7 @@ public class MyStack {
 class Test{
     public static void main(String[] args) {
         MyStack s=new MyStack();
+
 
 
         s.displayStack();
